@@ -8,7 +8,7 @@ logo:               'assets/img/cc.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             zh_CN
-url:                
+url:                https://rcs-ios.github.io/
 
 # Jekyll
 permalink:          /:title/
